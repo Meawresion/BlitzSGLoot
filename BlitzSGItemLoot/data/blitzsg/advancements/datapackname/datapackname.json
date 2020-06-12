@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "datapack name",
+        "description": "",
+        "icon": {
+            "item": ""
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:yourname",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
